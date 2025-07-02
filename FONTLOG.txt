@@ -1,0 +1,77 @@
+FONTLOG for the Hamro Nepal font
+================================
+
+This file provides detailed information on the Hamro Nepal font family.
+
+Font Name: Hamro Nepal  
+Designer: Yubraj Pandeya (https://yubrajpandeya.com.np)  
+License: SIL Open Font License, Version 1.1 (https://scripts.sil.org/OFL)  
+Release Version: 1.0  
+Release Date: July 2025
+
+--------------------------------------------------
+1. Overview
+--------------------------------------------------
+
+Hamro Nepal is a modern Devanagari typeface designed specifically for the Nepali language. It blends traditional aesthetics of the script with modern digital clarity and usability. It supports the complete Devanagari Unicode block, including all standard Nepali vowels, consonants, matras, punctuation, and basic ligatures.
+
+The font is suitable for:
+- UI design (mobile and web apps)
+- Branding and logo design
+- Print publications (newspapers, books, flyers)
+- Educational and government documents
+
+--------------------------------------------------
+2. Font License
+--------------------------------------------------
+
+This font is licensed under the SIL Open Font License, Version 1.1.
+
+You are free to use, modify, and redistribute the font, as long as you do not sell it on its own or use the Reserved Font Name "Hamro Nepal" for modified versions without permission.
+
+For full license details, see the `LICENSE.txt` file included with this release or visit:
+https://scripts.sil.org/OFL
+
+--------------------------------------------------
+3. ChangeLog
+--------------------------------------------------
+
+Version 1.0 – July 2025
+- Initial release
+- Full support for Devanagari block (U+0900–U+097F)
+- Optimized spacing and metrics
+- Includes Nepali numerals (०–९)
+- Designed and exported using Glyphr Studio
+
+--------------------------------------------------
+4. Acknowledgments
+--------------------------------------------------
+
+This font was designed independently by Yubraj Pandeya as part of a vision to promote localized and accessible digital typography for the Nepali language.
+
+Special thanks to:
+- The open-source font community
+- Tools like Glyphr Studio and FontForge
+- Unicode Consortium for Devanagari standards
+
+--------------------------------------------------
+5. Future Plans
+--------------------------------------------------
+
+- Add more ligatures and conjunct support
+- Create bold and italic weights
+- Optimize hinting for web use
+- Submit to Google Fonts
+- Expand support for Devanagari Extended characters (U+A8E0–U+A8FF)
+
+--------------------------------------------------
+6. Contact
+--------------------------------------------------
+
+Author: Yubraj Pandeya  
+Website: https://yubrajpandeya.com.np  
+Email: contact@yubrajpandeya.com.np
+
+--------------------------------------------------
+End of FONTLOG.txt
+--------------------------------------------------
